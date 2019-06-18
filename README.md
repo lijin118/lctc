@@ -1,6 +1,9 @@
 # lctc
 
 Code For Locality-Constrained Transfer Coding for Heterogeneous Domain Adaptation in ADC
+
+and
+
 Heterogeneous domain adaptation through progressive alignment in IEEE TNNLS 2019
 
 If you find the codes are helpful, we apperaciate that you can cite the following work
